@@ -1,16 +1,36 @@
-## Hi there 👋
+# KleberSilva
+# 👋 Olá, eu sou Kleber Silva!
+Obs.: começando a movimentar esse perfil!
 
-<!--
-**KleberSilvaKLOS/KleberSilvaKLOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack | Cloud Enthusiast | DevOps
 
-Here are some ideas to get you started:
+🚀 Atualmente: Estudando AWS e projetos com React e JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Habilidades:
+- JavaScript / React / Node.js
+- Python / SQL
+- Docker, Git, Azure, AWS
+- BI & Data Analytics
+
+---
+
+### 🛠️ Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### ⚡ Coding GIF
+![Coding GIF](https://media.giphy.com/media/3o7TKtdw0n9Aw2pNeE/giphy.gif)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberdev&layout=compact&theme=radical)
+
