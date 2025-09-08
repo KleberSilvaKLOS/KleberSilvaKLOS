@@ -25,7 +25,7 @@ Obs.: começando a movimentar esse perfil!
 ---
 
 ### ⚡ Coding GIF
-![Coding GIF](https://media.giphy.com/media/3o7TKtdw0n9Aw2pNeE/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
 
 ---
 
