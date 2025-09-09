@@ -4,6 +4,8 @@ Obs.: começando a movimentar esse perfil!
 
 💻 Desenvolvedor Full Stack | Cloud Enthusiast | DevOps
 
+🎓 Atualmente cursando Pós-graduação em Engenharia de Software, DevOps e Transformação Digital na PUCPR
+
 🚀 Atualmente: Estudando AWS e projetos com React e JS
 
 🎯 Habilidades:
