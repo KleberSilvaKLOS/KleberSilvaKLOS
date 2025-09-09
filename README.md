@@ -36,6 +36,6 @@ Obs.: começando a movimentar esse perfil!
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberdev&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberSilvaKLOS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberdev&layout=compact&theme=radical)
 
