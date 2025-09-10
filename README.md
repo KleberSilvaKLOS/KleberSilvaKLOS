@@ -28,6 +28,7 @@ Obs.: começando a movimentar esse perfil!
 
 
 ---
+
 ### 💻 Tech Stack Highlights
 
 <p align="center">
@@ -35,13 +36,21 @@ Obs.: começando a movimentar esse perfil!
 </p>
 
 ---
-### ⚡ Coding GIF
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KleberSilvaKLOS&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
 
 ---
+### ⚡ Coding GIF
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberSilvaKLOS&show_icons=true&theme=radical)
-
-
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
+</p>
+---
