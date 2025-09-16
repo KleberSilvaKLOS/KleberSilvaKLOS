@@ -12,7 +12,7 @@ Obs.: começando a movimentar esse perfil!
 - JavaScript / React / Node.js
 - Python / SQL
 - Docker, Git, Azure, AWS
-- BI & Data Analytics
+- BI & Data Analytics.
 
 ---
 
