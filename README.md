@@ -37,8 +37,8 @@ Obs.: começando a movimentar esse perfil!
 ### 💻 Tech Stack Highlights
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSilvaKLOS&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
+  <p> Em construção </p>
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSilvaKLOS&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&cache_seconds=1800) -->
 </div>
 
 ---
