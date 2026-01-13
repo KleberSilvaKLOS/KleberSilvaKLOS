@@ -2,17 +2,16 @@
 # 👋 Olá, eu sou Kleber Silva!
 Obs.: começando a movimentar esse perfil!
 
-💻 Desenvolvedor Full Stack | Cloud Enthusiast | DevOps
+💻 Desenvolvedor Full Stack
 
 🎓 Atualmente cursando Pós-graduação em Engenharia de Software, DevOps e Transformação Digital na PUCPR
 
-🚀 Atualmente: Estudando AWS e projetos com React e JS
+🚀 Atualmente: Estudando Reactnative, typescript e sobre VPS.
 
 🎯 Habilidades:
-- JavaScript / React / Node.js
-- Python / SQL
-- Docker, Git, Azure, AWS
-- BI & Data Analytics.
+- JavaScript / Reactnative / Typescript / Node.js
+- Python / SQL.
+- Docker / Git / Azure / AWS.
 
 ---
 
