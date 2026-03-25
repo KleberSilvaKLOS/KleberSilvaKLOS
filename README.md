@@ -9,8 +9,8 @@ Obs.: começando a movimentar esse perfil!
 🚀 Atualmente: Estudando Reactnative, typescript e sobre VPS.
 
 🎯 Habilidades:
-- JavaScript / Reactnative / Typescript / Node.js / Kotlin
-- Python / SQL.
+- JavaScript / Reactnative / Typescript / Node.js / Kotlin / Python / Java
+- VPS / PostgreSQL / SQL.
 - Docker / Git / Azure / AWS.
 
 ---
